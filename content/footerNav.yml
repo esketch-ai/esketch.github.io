@@ -1,21 +1,21 @@
-community:
-  title: Community
+# community:
+#   title: Community
 
-docs:
-  title: Docs
+# docs:
+#   title: Docs
 
-more:
-  title: More
-  items:
-    - title: Tutorial
-      to: /tutorial/tutorial.html
-    - title: Blog
-      to: /blog
-    - title: Acknowledgements
-      to: /acknowledgements.html
-    - title: React Native
-      to: https://reactnative.dev/
-      external: true
+# more:
+#   title: More
+#   items:
+#     - title: Tutorial
+#       to: /tutorial/tutorial.html
+#     - title: Blog
+#       to: /blog
+#     - title: Acknowledgements
+#       to: /acknowledgements.html
+#     - title: React Native
+#       to: https://reactnative.dev/
+#       external: true
 
 channels:
   title: Channels

@@ -1,13 +1,13 @@
 items:
+  - title: Blog
+    to: /blog/
+    activeSelector: /blog
   - title: Docs
     to: /docs/getting-started.html
     activeSelector: /docs/
   - title: Tutorial
     to: /tutorial/tutorial.html
     activeSelector: /tutorial
-  - title: Blog
-    to: /blog/
-    activeSelector: /blog
-  - title: Community
+    - title: Community
     to: /community/support.html
     activeSelector: /community
